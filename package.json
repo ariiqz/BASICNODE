@@ -1,0 +1,20 @@
+{
+  "name": "binar-nodejs",
+  "version": "1.0.0",
+  "description": "Latihan NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariiqz/BASICNODE.git"
+  },
+  "author": "Ariiq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariiqz/BASICNODE.git/issues"
+  },
+  "homepage": "https://github.com/ariiqz/BASICNODE.git#readme"
+}
